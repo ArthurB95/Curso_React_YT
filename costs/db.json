@@ -1,0 +1,79 @@
+{
+  "projects": [
+    {
+      "name": "Arthur Fernandes",
+      "budget": "20000",
+      "category": {
+        "id": "3",
+        "name": "Design"
+      },
+      "cost": 110,
+      "services": [
+        {
+          "name": "Meu novo serviço",
+          "cost": "100",
+          "description": "Faz isso aqui",
+          "id": "d608da8c-c571-449e-bc3b-9e383e348d88"
+        },
+        {
+          "name": "Obras",
+          "cost": "10",
+          "description": "Obras no ambiente",
+          "id": "c4cc8709-c9c4-4d56-9fa0-758669a48ee8"
+        }
+      ],
+      "id": 2
+    },
+    {
+      "name": "Arthur Bicalho",
+      "budget": "1000",
+      "category": {
+        "id": "2",
+        "name": "Desenvolvimento"
+      },
+      "cost": 0,
+      "services": [],
+      "id": 3
+    },
+    {
+      "name": "Arthur Bicalho",
+      "budget": "100",
+      "category": {
+        "id": "3",
+        "name": "Design"
+      },
+      "cost": 0,
+      "services": [],
+      "id": 4
+    },
+    {
+      "name": "Obras de Predio",
+      "budget": "10000000",
+      "category": {
+        "id": "2",
+        "name": "Desenvolvimento"
+      },
+      "cost": 0,
+      "services": [],
+      "id": 5
+    }
+  ],
+  "categories": [
+    {
+      "id": 1,
+      "name": "Infra"
+    },
+    {
+      "id": 2,
+      "name": "Desenvolvimento"
+    },
+    {
+      "id": 3,
+      "name": "Design"
+    },
+    {
+      "id": 4,
+      "name": "Planejamento"
+    }
+  ]
+}
